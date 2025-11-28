@@ -1,5 +1,4 @@
 title: "Smitha Reddy"
-theme: jekyll-theme-minimal
-description: "Machine Learning Researcher · Deep Learning Enthusiast"
-logo: /assets/profile.jpg
-show_downloads: false
+description: "Machine Learning Researcher — Minimal portfolio"
+theme: minima
+plugins: []
