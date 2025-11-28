@@ -1,4 +1,3 @@
-title: "Smitha Reddy"
-description: "Machine Learning Researcher — Minimal portfolio"
-theme: minima
-plugins: []
+markdown: kramdown
+theme: null
+
